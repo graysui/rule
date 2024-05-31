@@ -8,6 +8,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 51
 DOMAIN,emby.enjoyit.eu.org
+IP-CIDR,88.99.218.218/24
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
 DOMAIN,cf.niceduck.lol
