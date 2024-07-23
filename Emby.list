@@ -7,7 +7,8 @@
 # DOMAIN-SUFFIX: 44
 # PROCESS-NAME: 1
 # TOTAL: 51
-DOMAIN,hxd.as174.com:443
+DOMAIN,tanhuatv.site
+DOMAIN,hxd.as174.com
 DOMAIN,emby3.mcjoker.xyz
 DOMAIN,emby.enjoyit.eu.org
 IP-CIDR,88.99.218.218/24
