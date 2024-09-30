@@ -8,7 +8,8 @@
 # PROCESS-NAME: 1
 # TOTAL: 51
 DOMAIN,www.tanhuatv.site
-DOMAIN,www.023168.xyz
+DOMAIN-SUFFIX,023168.xyz
+DOMAIN-SUFFIX,zox.show
 DOMAIN,hxd.as174.com
 DOMAIN,emby3.mcjoker.xyz
 DOMAIN,emby.enjoyit.eu.org
